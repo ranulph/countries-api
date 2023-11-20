@@ -1,6 +1,6 @@
 ## Countries API
 
-Country Information including name, 2 and 3 letter country codes, currencies, capital, region, languages, area, population, calling code and neighbouring countries.   
+Country Information including name, 2 and 3 letter country codes, currencies, capital, region, languages, area, population, calling code, coordinates and neighbouring countries   
   
 See https://api.countries.worlddata.run/ui for OpenAPI/Swagger documentation web interface.  
 
