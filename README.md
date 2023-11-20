@@ -1,6 +1,7 @@
 ## Countries API
 
-Country Information
+Country Information including name, 2 and 3 letter country codes, currencies, capital, region, languages, area, population, calling code and neighbouring countries.   
+  
 See https://api.countries.worlddata.run/ui for OpenAPI/Swagger documentation web interface.  
 
 Uses Cloudflare Workers, Cloudflare KVStore, Hono, Hono OpenAPI plugin.  
