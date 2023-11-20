@@ -3,7 +3,7 @@
 Country Information
 See https://api.countries.worlddata.run/ui for OpenAPI/Swagger documentation web interface.  
 
-Uses Cloudflare Workers, Cloudflare KVStore, openexchangerates.org for rates, Hono, Hono OpenAPI plugin.  
+Uses Cloudflare Workers, Cloudflare KVStore, Hono, Hono OpenAPI plugin.  
    
 Email ranulph@mailfence.com if you would like a Bearer Auth token.   
   
